@@ -1,4 +1,4 @@
-# Creative Developer Portfolio 3
+# Creative Developer Portfolio 2
 
 A modern, responsive portfolio website built with React to showcase my projects, skills, and professional experience.
 
@@ -24,8 +24,8 @@ A modern, responsive portfolio website built with React to showcase my projects,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/creative-developer-portfolio-3.git
-cd creative-developer-portfolio-3
+git clone https://github.com/yourusername/creative-developer-portfolio.git
+cd creative-developer-portfolio
 ```
 
 2. Install dependencies:
