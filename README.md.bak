@@ -24,8 +24,8 @@ A modern, responsive portfolio website built with React to showcase my projects,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/creative-developer-portfolio.git
-cd creative-developer-portfolio
+git clone https://github.com/yourusername/portfolio-website.git
+cd portfolio-website
 ```
 
 2. Install dependencies:
